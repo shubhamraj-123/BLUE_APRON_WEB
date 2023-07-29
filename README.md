@@ -26,3 +26,17 @@ Abhisek Sahu
 Subham Raj
 Smruti Sourav Panda
 Jayashree Sahu
+
+## Team members
+
+- Surya
+
+- Ankit
+
+- Shubham
+
+- Smruti
+
+- Jayashree
+
+- Abhisek
