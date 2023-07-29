@@ -11,8 +11,11 @@ Homepage
 
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/81bbdd21-84ba-46e0-bc9d-18999a1592c2)
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/029511fb-dd4d-4434-978a-93db72fa80c6)
+Signup
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/b9b06250-c94e-4776-b011-024d27d4a362)
+Login
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/a96b48a6-5a07-47fb-81c6-f139f39fd43c)
+Recipe
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/7846954a-b3ac-418f-90c1-f5ac1e58c38e)
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/9c4a72ef-3198-4431-85a3-5de546cc9ab0)
 
