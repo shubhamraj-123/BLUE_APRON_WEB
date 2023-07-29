@@ -9,7 +9,7 @@ Homepage
 
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/9e3df822-1cf3-4f17-bb78-31cabcb5ab93)
 
-![](https://github.com/smrutisourav7/tutorial/assets/138769321/81bbdd21-84ba-46e0-bc9d-18999a1592c2)
+
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/029511fb-dd4d-4434-978a-93db72fa80c6)
 Signup
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/b9b06250-c94e-4776-b011-024d27d4a362)
