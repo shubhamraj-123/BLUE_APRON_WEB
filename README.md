@@ -13,11 +13,17 @@ Homepage
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/029511fb-dd4d-4434-978a-93db72fa80c6)
 Signup
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/b9b06250-c94e-4776-b011-024d27d4a362)
+![](https://github.com/smrutisourav7/temp/assets/138769321/a5a6c8ab-194d-4f30-8c91-440259bb68b6)
+
 Login
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/a96b48a6-5a07-47fb-81c6-f139f39fd43c)
+![](https://github.com/smrutisourav7/temp/assets/138769321/ab7d1cb7-b3b5-4c93-9712-d90a83b960fe)
+
 Recipe
-![](https://github.com/smrutisourav7/tutorial/assets/138769321/7846954a-b3ac-418f-90c1-f5ac1e58c38e)
-![](https://github.com/smrutisourav7/tutorial/assets/138769321/9c4a72ef-3198-4431-85a3-5de546cc9ab0)
+![](https://github.com/smrutisourav7/temp/assets/138769321/cc1e6f51-4682-4b20-ac16-118b5ff535f2)
+![](https://github.com/smrutisourav7/temp/assets/138769321/8bf1fd7e-94ab-433f-a997-6ac491a39132)
+![](https://github.com/smrutisourav7/temp/assets/138769321/eff9e82f-9c86-4ea5-a467-8daacd9034c4)
+
 ## Team members
 
 - Surya
