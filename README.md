@@ -16,9 +16,9 @@ Blue Apron meal delivery services offer meal kits with fresh ingredients. Learn 
 ![](https://github.com/smrutisourav7/tutorial/assets/138769321/9c4a72ef-3198-4431-85a3-5de546cc9ab0)
 
 #Team members
-Surya Prasad Sahoo (LEADER)
-Ankit Kumar
-Abhisek Sahu
-Subham Raj
-Smruti Sourav Panda
-Jayashree Sahu
+#Surya Prasad Sahoo (LEADER)
+#Ankit Kumar
+#Abhisek Sahu
+#Subham Raj
+#Smruti Sourav Panda
+#Jayashree Sahu
